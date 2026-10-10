@@ -1,0 +1,9 @@
+target/
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+.env
+artifacts/
+node_modules/
