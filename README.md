@@ -1,5 +1,9 @@
 # ContractHarbor
 
+[![Weekly quick check](https://github.com/manojperla/contractharbor/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/manojperla/contractharbor/actions/workflows/maintenance.yml)
+
+Every Tuesday, GitHub Actions uses a fresh Linux runner to verify the REST Assured contracts against the bundled API.
+
 Java 17 + REST Assured API testing reference framework by Manoj Perla.
 
 ## Run
